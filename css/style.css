@@ -6,8 +6,7 @@
   box-sizing: border-box;
 }
 body{
-  width: auto;
-  height: auto;
+  width: 100%;
 }
 ul {
   list-style: none;
